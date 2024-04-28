@@ -4,7 +4,7 @@ import datetime
 import sqlite3
 
 # Создаем бота
-bot = telebot.TeleBot('7193165635:AAEMAxHTJFWPpPQf56T-z-3zHnUfBrL5suI')
+bot = telebot.TeleBot('SECRET_TOKEN')
 
 
 # Функция для добавления задачи в базу данных
